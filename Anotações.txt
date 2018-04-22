@@ -1,0 +1,5 @@
+Addressability do REST - Identificador unico para um recurso, nesse caso o carrinho.
+https://www.mocky.io/ - Para fazer mock de um retorno.
+request.Accept - "application/json" ou "application/xml" determina o tipo de retorno do request. Accept é passado no request. 
+ContentType -  "application/json" ou "application/xml" determina o tipo de envio para api.
+Lista de Status Code - https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
