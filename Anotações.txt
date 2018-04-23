@@ -3,3 +3,8 @@ https://www.mocky.io/ - Para fazer mock de um retorno.
 request.Accept - "application/json" ou "application/xml" determina o tipo de retorno do request. Accept é passado no request. 
 ContentType -  "application/json" ou "application/xml" determina o tipo de envio para api.
 Lista de Status Code - https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+Tentar usar o HttpResponseMessage  nos retornos da API.
+Idempotente - não altera nada na aplicação. (GET)
+ HTTP PATCH - Alteração em algumas propriedades 
+ HTTP PUT - Alteração completa.
+Boas praticas - https://github.com/RestCheatSheet/api-cheat-sheet
