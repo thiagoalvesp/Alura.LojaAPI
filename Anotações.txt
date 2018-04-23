@@ -8,3 +8,4 @@ Idempotente - não altera nada na aplicação. (GET)
  HTTP PATCH - Alteração em algumas propriedades 
  HTTP PUT - Alteração completa.
 Boas praticas - https://github.com/RestCheatSheet/api-cheat-sheet
+Teste de API .NET - https://github.com/lamchakchan/RestAssured.Net
